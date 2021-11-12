@@ -1,0 +1,2 @@
+['remote "projectremote"']
+    url = ../s3/classification-census
